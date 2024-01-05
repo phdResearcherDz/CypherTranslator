@@ -1,0 +1,1645 @@
+[
+    {
+        "id": "5149199dd24251bc05000040",
+        "question": "Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?",
+        "type": "Compound",
+        "ideal_answer": [
+            "Pyridostigmine and neostygmine are acetylcholinesterase inhibitors that are used as first-line therapy for symptomatic treatment of myasthenia gravis. Pyridostigmine is the most widely used acetylcholinesterase inhibitor. Extended release pyridotsygmine and novel acetylcholinesterase inhibitors inhibitors with oral antisense oligonucleotides are being studied."
+        ],
+        "exact_answer": [
+            [
+                "neostigmine"
+            ],
+            [
+                "pyridostigmine"
+            ]
+        ]
+    },
+    {
+        "id": "513ce3c8bee46bd34c000008",
+        "question": "Which human genes are more commonly related to craniosynostosis?",
+        "type": "Gene",
+        "ideal_answer": [
+            "The genes that are most commonly linked to craniosynostoses are the members of the Fibroblast Growth Factor Receptor family FGFR3 and to a lesser extent FGFR1 and FGFR2. Some variants of the disease have been associated with the triplication of the MSX2 gene and mutations in NELL-1. NELL-1 is being regulated bu RUNX2, which has also been associated to cases of craniosynostosis. Other genes reported to have a role in the development of the disease are RECQL4, TWIST, SOX6 and GNAS."
+        ],
+        "exact_answer": [
+            [
+                "FGFR3"
+            ],
+            [
+                "FGFR2"
+            ],
+            [
+                "FGFR1"
+            ],
+            [
+                "MSX2"
+            ],
+            [
+                "NELL1"
+            ],
+            [
+                "RUNX2"
+            ],
+            [
+                "RECQL4"
+            ],
+            [
+                "TWIST"
+            ],
+            [
+                "SOX6"
+            ],
+            [
+                "GNAS"
+            ]
+        ]
+    },
+    {
+        "id": "571f3b320fd6f91b68000007",
+        "question": "Which are the common symptoms of Cushing's syndrome?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Cushing syndrome is the constellation of signs and symptoms caused by protracted exposure to glucocorticoids. Presenting features commonly include weight gain, growth retardation, hirsutism, obesity, striae, acne and hypertension."
+        ],
+        "exact_answer": [
+            [
+                "weight gain"
+            ],
+            [
+                "growth retardation"
+            ],
+            [
+                "hirsutism"
+            ],
+            [
+                "obesity"
+            ],
+            [
+                "striae"
+            ],
+            [
+                "acne"
+            ],
+            [
+                "hypertension"
+            ]
+        ]
+    },
+    {
+        "id": "511a4d391159fa8212000003",
+        "question": "Which are the plant DNA (cytosine-5) methyltransferase families?",
+        "type": "Gene",
+        "ideal_answer": [
+            "The plant DNA (cytosine-5)methyltransferases are classified into the families: MET, CMT, and the de novo DRM."
+        ],
+        "exact_answer": [
+            [
+                "MET"
+            ],
+            [
+                "CMT"
+            ],
+            [
+                "DRM"
+            ]
+        ]
+    },
+    {
+        "id": "514241fcd24251bc05000006",
+        "question": "The protein NONO forms heterodimers. With which proteins?",
+        "type": "Gene",
+        "ideal_answer": [
+            "The protein NONO forms heterodimers with PSPC1, SFPQ."
+        ],
+        "exact_answer": [
+            [
+                "PSPC1"
+            ],
+            [
+                "SFPQ"
+            ]
+        ]
+    },
+    {
+        "id": "56bb616dac7ad10019000008",
+        "question": "What medication were compared in the ROCKET AF Trial?",
+        "type": "Compound",
+        "ideal_answer": [
+            "ROCKET-AF trial compared rivaroxaban and warfarin for for prevention of stroke and embolism."
+        ],
+        "exact_answer": [
+            [
+                "rivaroxaban"
+            ],
+            [
+                "warfarin"
+            ]
+        ]
+    },
+    {
+        "id": "5171a1498ed59a060a000012",
+        "question": "Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia",
+        "type": "Gene",
+        "ideal_answer": [
+            "TP53, ATM, NOTCH1, XPO1, MYD88, KLHL6, SF3B1, ZMYM3, MAPK1, FBXW7 and DDX3X"
+        ],
+        "exact_answer": [
+            [
+                "TP53"
+            ],
+            [
+                "ATM"
+            ],
+            [
+                "NOTCH1"
+            ],
+            [
+                "XPO1"
+            ],
+            [
+                "MYD88"
+            ],
+            [
+                "KLHL6"
+            ],
+            [
+                "SF3B1"
+            ],
+            [
+                "ZMYM3"
+            ],
+            [
+                "MAPK1"
+            ],
+            [
+                "FBXW7"
+            ],
+            [
+                "DDX3X"
+            ]
+        ]
+    },
+    {
+        "id": "54e061ee1388e8454a00000c",
+        "question": "List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "Everolimus and rapamycin are chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma."
+        ],
+        "exact_answer": [
+            [
+                "everolimus"
+            ],
+            [
+                "rapamycin"
+            ]
+        ]
+    },
+    {
+        "id": "56c1f007ef6e39474100003b",
+        "question": "Tumor-treating fields are effective for treatment of which cancers?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Clinical trials have shown that Tumor-treating fields are effective for treatment of non-small cell lung cancer and glioblastoma. Ongoing and future trials will evaluate TTFields in solid tumor brain metastases, and ovarian, pancreatic cancers and multidrug resistance cancer cells."
+        ],
+        "exact_answer": [
+            [
+                "non-small cell lung cancer"
+            ],
+            [
+                "glioblastoma"
+            ]
+        ]
+    },
+    {
+        "id": "56c8605b5795f9a73e000014",
+        "question": "Which kinases does baricitinib inhibit?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Baricitinib is an inhibitor of Janus kinase family of enzymes (JAKs) with selectivity for JAK1 and JAK2."
+        ],
+        "exact_answer": [
+            [
+                "JAK1"
+            ],
+            [
+                "JAK2"
+            ]
+        ]
+    },
+    {
+        "id": "51477de5d24251bc05000020",
+        "question": "Tumors of which three organs are classically associated with the multiple endocrine neoplasia type 1 syndrome?",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "Multiple endocrine neoplasia type 1 syndrome is an inherited cancer syndrome defined by occurrence of multiple neuro-endocrine tumors and is classically associated with the combined occurrence of two or more tumors involving parathyroid gland, pancreas and pituitary gland. Other tumors, including but not limited to adrenal cortical tumor, carcinoid tumors lipoma, leiomyoma, duodenal gastrinoma, hepatic focal nodular hyperplasia, and renal angiomyolipoma, angiofibroma, colagenoma, thyroid tumor and meningioma, may also be present."
+        ],
+        "exact_answer": [
+            [
+                "parathyroid gland"
+            ],
+            [
+                "pancreas"
+            ],
+            [
+                "pituitary gland"
+            ]
+        ]
+    },
+    {
+        "id": "515bd543298dcd4e51000001",
+        "question": "In which isochores are Alu elements enriched?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Alu elements are enriched in high GC% isochores due to reduced Alu loss by recombination in these regions. The frequency of Alu sequences increases with increasing GC, but attains a maximum in H2 isochores."
+        ],
+        "exact_answer": [
+            [
+                "H2"
+            ],
+            [
+                "H3"
+            ]
+        ]
+    },
+    {
+        "id": "52fb42752059c6d71c00005e",
+        "question": "Which are the thyroid hormone analogs utilized in human studies?",
+        "type": "PharmacologicClass",
+        "ideal_answer": [
+            "TRIAC and TETRAC are two different thyroid hormone analogs utilized in human studies"
+        ],
+        "exact_answer": [
+            [
+                "TRIAC",
+                "TETRAC"
+            ]
+        ]
+    },
+    {
+        "id": "51487ef9d24251bc05000031",
+        "question": "Which two catechol-O-methyl transferase (COMT) inhibitors can be used for treatment of Parkinson disease?",
+        "type": "Compound",
+        "ideal_answer": [
+            "Tolcapone (central and peripheral) and entacapone (peripheral) are catechol-O-methyl transferase inhibitors that are used for treatment of Parkinson disease."
+        ],
+        "exact_answer": [
+            [
+                "tolcapone"
+            ],
+            [
+                "entacapone"
+            ]
+        ]
+    },
+    {
+        "id": "532f49f8d6d3ac6a34000035",
+        "question": "What is the triple screening test performed during pregnancy measuring?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Alpha-fetoprotein (AFP), human chorionic gonadotropin (hCG) and unconjugated estriol (uE3)"
+        ],
+        "exact_answer": [
+            [
+                "AFP"
+            ],
+            [
+                "Estriol"
+            ],
+            [
+                "hCG"
+            ]
+        ]
+    },
+    {
+        "id": "54d8d60d014675820d000007",
+        "question": "List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients",
+        "type": "Compound",
+        "ideal_answer": [
+            "Vemurafenib and dabrafenib are BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients."
+        ],
+        "exact_answer": [
+            [
+                "Vemurafenib"
+            ],
+            [
+                "Dabrafenib"
+            ]
+        ]
+    },
+    {
+        "id": "530cf4fe960c95ad0c000007",
+        "question": "What are the indications for hydrochlorothiazide?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Hydrochlorothiazide is a diuretic, often used in combination with others. Hydrochlorothiazide are used to treat hypertension. Hydrochlorothiazide has been shown to decrease diastolic blood pressure."
+        ],
+        "exact_answer": [
+            [
+                "diuretic"
+            ],
+            [
+                "hypertension"
+            ]
+        ]
+    },
+    {
+        "id": "5540eda30083d1bf0e000006",
+        "question": "Which proteins constitute the methyl-directed mismatch repair system (MMR) in bacteria?",
+        "type": "MolecularFunction",
+        "ideal_answer": [
+            "The mismatch repair system (MMR) recognizes and corrects mismatched or unpaired bases caused mainly by DNA polymerase, and contributes to the fidelity of DNA replication in living cells. In bacteria, the methyldirected mismatch repair (MMR) is comprised of MutS and MutL proteins, encoded by the mutS/L operon."
+        ],
+        "exact_answer": [
+            [
+                "mutS"
+            ],
+            [
+                "mutL"
+            ],
+            [
+                "mutH"
+            ]
+        ]
+    },
+    {
+        "id": "56cf4b623975bb303a00000a",
+        "question": "List the neurotransmitters that are metabolized by MAOA.",
+        "type": "Gene",
+        "ideal_answer": [
+            "The monoamine oxidase-A (MAOA) gene plays a vital role in the metabolism of neurotransmitters, e.g, serotonin, norepinephrine, and dopamine."
+        ],
+        "exact_answer": [
+            [
+                "serotonin"
+            ],
+            [
+                "norepinephrine"
+            ],
+            [
+                "dopamine"
+            ]
+        ]
+    },
+    {
+        "id": "54fb5c69d176fff445000003",
+        "question": "Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Direct reprogramming of human cardiac fibroblasts (HCFs) into cardiomyocytes may hold great potential for this purpose. We found that functional cardiomyocytes can be directly induced from fibroblasts by a combination of three cardiac transcription factors, Gata4, Mef2c and Tbx5, in vitro and in vivo.",
+            "Direct reprogramming of human cardiac fibroblasts (HCFs) into cardiomyocytes may hold great potential for this purpose. We reported previously that induced cardiomyocyte-like cells (iCMs) can be directly generated from mouse cardiac fibroblasts in vitro and vivo by transduction of three transcription factors: Gata4, Mef2c, and Tbx5, collectively termed GMT.  ",
+            "Cardiac fibroblasts, which represent 50% of the cells in the mammalian heart, can be directly reprogrammed to adult cardiomyocyte-like cells in vitro by the addition of Gata4, Mef2c and Tbx5 (GMT). Induced cardiomyocytes expressed cardiac-specific markers, had a global gene expression profile similar to cardiomyocytes, and contracted spontaneously."
+        ],
+        "exact_answer": [
+            [
+                "Gata4"
+            ],
+            [
+                "Mef2c"
+            ],
+            [
+                "Tbx5"
+            ]
+        ]
+    },
+    {
+        "id": "533ec7abc45e133714000015",
+        "question": "Which factors play a role in promoter proximal pausing of RNA polymerase II?",
+        "type": "Gene",
+        "ideal_answer": [
+            "NELF (negative elongator factor) and DSIF (DRB Sensitivity Inducing Factor)"
+        ],
+        "exact_answer": [
+            [
+                "NELF"
+            ],
+            [
+                "DSIF"
+            ]
+        ]
+    },
+    {
+        "id": "56be143eef6e394741000009",
+        "question": "Name triad of Wernicke encephalopathy.",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Wernicke's encephalopathy is a triad of ophthalmoplegia, ataxia and confusion seen in alcoholics with dietary vitamin B1 (thiamine) deficiency."
+        ],
+        "exact_answer": [
+            [
+                "ophthalmoplegia"
+            ],
+            [
+                "ataxia"
+            ],
+            [
+                "confusion"
+            ]
+        ]
+    },
+    {
+        "id": "5884fe4ce56acf5176000010",
+        "question": "SPAG5 was implicated in which cancers?",
+        "type": "Disease",
+        "ideal_answer": [
+            "SPAG5 was implicated in prostate cancer, lung cancer and cervical cancer."
+        ],
+        "exact_answer": [
+            [
+                "prostate cancer"
+            ],
+            [
+                "lung cancer"
+            ],
+            [
+                "cervical cancer"
+            ],
+            [
+                "breast cancer"
+            ]
+        ]
+    },
+    {
+        "id": "58adb9919ef3c34033000004",
+        "question": "Which proteins form part of the NRD complex in S. cerevisiae?",
+        "type": "Gene",
+        "ideal_answer": [
+            "The purification of an ATR complex allowed identification of chromodomain-helicase-DNA-binding protein 4 (CHD4) as an ATR-associated protein by tandem mass spectrometric sequencing. CHD4 (also called Mi-2beta) is a component of a histone-deacetylase-2 (HDAC2)-containing complex, the nucleosome remodeling and deacetylating (NRD) complex. Endogenous ATR, CHD4, and HDAC2 are shown to coimmunoprecipitate, and ATR and HDAC2 coelute through two biochemical purification steps. Other members of the NRD complex, HDAC1, MTA1, and MTA2, are also detectable in ATR immunoprecipitates. Sen1 of S. cerevisiae is a known component of the NRD complex implicated in transcription termination of nonpolyadenylated as well as some polyadenylated RNA polymerase II transcripts.  We now show that Pcf11, a component of the cleavage and polyadenylation complex (CPAC), is also generally required for NRD-dependent transcription termination through the action of its C-terminal domain (CTD)-interacting domain (CID)."
+        ],
+        "exact_answer": [
+            [
+                "Chd2"
+            ],
+            [
+                "Chd4"
+            ],
+            [
+                "Hdac2"
+            ],
+            [
+                "Mta1"
+            ],
+            [
+                "Mta2"
+            ],
+            [
+                "Sen1"
+            ],
+            [
+                "Pcf11"
+            ]
+        ]
+    },
+    {
+        "id": "589a245a78275d0c4a000026",
+        "question": "List drug that were evaluated in the CHAMP trial for migraine.",
+        "type": "Compound",
+        "ideal_answer": [
+            "Childhood and Adolescent Migraine Prevention (CHAMP) trial evaluated effectiveness of amitriptyline and topiramate in the prevention of migraine in children and adolescents."
+        ],
+        "exact_answer": [
+            [
+                "amitriptyline"
+            ],
+            [
+                "topiramate"
+            ]
+        ]
+    },
+    {
+        "id": "58dfd83a6fddd3e83e000003",
+        "question": "List genes associated with hypolipidemia.",
+        "type": "Gene",
+        "ideal_answer": [
+            "PCSK9\nAPOB \nANGPTL3\nANGPTL4\nMTP"
+        ],
+        "exact_answer": [
+            [
+                "PCSK9"
+            ],
+            [
+                "APOB"
+            ],
+            [
+                "ANGPTL3"
+            ],
+            [
+                "ANGPTL4"
+            ],
+            [
+                "MTP"
+            ]
+        ]
+    },
+    {
+        "id": "58da14178acda34529000011",
+        "question": "List the human acrocentric chromosomes that are involved in Robertsonian translocation.",
+        "type": "Gene",
+        "ideal_answer": [
+            "Robertsonian translocations (ROBs) are the most common chromosomal rearrangements in humans. ROBs are whole-arm rearrangements between the acrocentric chromosomes 13, 14, 15, 21, and 22."
+        ],
+        "exact_answer": [
+            [
+                "13"
+            ],
+            [
+                "14"
+            ],
+            [
+                "15"
+            ],
+            [
+                "21"
+            ],
+            [
+                "22"
+            ]
+        ]
+    },
+    {
+        "id": "58e7a1393e8b6dc87c00000b",
+        "question": "Which gene mutations are predictive of response to anti-TNF therapy in Rheumatoid Arthritis patients?",
+        "type": "Gene",
+        "ideal_answer": [
+            "\u039cutations in TLR5 and TLR1 genes contribute to differential response to anti-TNF treatment in RA. Variation at FCGR2A and functionally related genes such as DHX32 and RGS12 is also associated with the response to anti-TNF therapy in rheumatoid arthritis."
+        ],
+        "exact_answer": [
+            [
+                "TLR5"
+            ],
+            [
+                "TLR1"
+            ],
+            [
+                "FCGR2A"
+            ],
+            [
+                "DHX32"
+            ],
+            [
+                "RGS12"
+            ]
+        ]
+    },
+    {
+        "id": "5a70dbe599e2c3af26000004",
+        "question": "Which two genes are implicated in Juvenile polyposis syndrome?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Juvenile polyposis syndrome (JPS) is a rare autosomal dominant disorder predisposing to gastrointestinal hamartomatous polyps and cancer with a pathogenic SMAD4 or BMPR1A germline mutation being identified in about 40-50% of patients."
+        ],
+        "exact_answer": [
+            [
+                "SMAD4"
+            ],
+            [
+                "BMPR1A"
+            ]
+        ]
+    },
+    {
+        "id": "5a86ebf2faa1ab7d2e000038",
+        "question": "Which are the main transcriptional activators of circadian oscillations?",
+        "type": "Pathway",
+        "ideal_answer": [
+            "Mammalian CLOCK and BMAL1 are two members of bHLH-PAS-containing family of transcription factors that represent the positive elements of circadian autoregulatory feedback loop.",
+            "BMAL1 and CLOCK.",
+            "Mammalian CLOCK and BMAL1 are two members of bHLH-PAS-containing family of transcription factors that represent the positive elements of circadian autoregulatory feedback loop.  We have examined abundance, posttranslational modifications, cellular localization of endogenous and ectopically expressed CLOCK and BMAL1 proteins. Nuclear/cytoplasm distribution of CLOCK was found to be under circadian regulation.",
+            "Mammalian CLOCK and BMAL1 are two members of bHLH-PAS-containing family of transcription factors that represent the positive elements of circadian autoregulatory feedback loop. Nuclear/cytoplasm distribution of CLOCK was found to be under circadian regulation.  Two basic helix-loop-helix (bHLH) PAS (for Period-Arnt-Sim) domain-containing transcriptional activators, CLOCK and BMAL1, are known to regulate gene expression by interacting with a promoter element termed the E-box (CACGTG).",
+            "Mammalian CLOCK and BMAL1 are two members of bHLH-PAS-containing family of transcription factors that represent the positive elements of circadian autoregulatory feedback loop.  We have examined abundance, posttranslational modifications, cellular localization of endogenous and ectopically expressed CLOCK and BMAL1 proteins. Formation of CLOCK/BMAL1 complex following ectopic coexpression of both proteins is followed by their codependent phosphorylation, which is tightly coupled to CLOCK nuclear translocation and degradation"
+        ],
+        "exact_answer": [
+            [
+                "BMAL1"
+            ],
+            [
+                "CLOCK"
+            ]
+        ]
+    },
+    {
+        "id": "5a981bcffcd1d6a10c00002d",
+        "question": "List 3 symptoms of Wernicke encephalopathy.",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Wernicke's encephalopathy (WE) is a neurological syndrome caused by thiamine deficiency, and clinically characterized by ophthalmoplegia, ataxia and acute confusion.",
+            "Wernicke's encephalopathy (WE) is a neurological syndrome caused by thiamine deficiency, and clinically characterized by ophthalmoplegia, ataxia and acute confusion. "
+        ],
+        "exact_answer": [
+            [
+                "ophthalmoplegia"
+            ],
+            [
+                "ataxia"
+            ],
+            [
+                "acute confusion"
+            ]
+        ]
+    },
+    {
+        "id": "5aacdcf1fcf4565872000009",
+        "question": "List BET proteins.",
+        "type": "Gene",
+        "ideal_answer": [
+            "BRD2\nBRD3\nBRD4\nBdf1"
+        ],
+        "exact_answer": [
+            [
+                "Brd2"
+            ],
+            [
+                "Brd4"
+            ],
+            [
+                "Bdf1"
+            ],
+            [
+                "Brd3"
+            ]
+        ]
+    },
+    {
+        "id": "5c34a029da8336e21a000003",
+        "question": "Which organs are mostly affected in Systemic Lupus Erythematosus (SLE)?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "In systemic lupus erythematosus (SLE), brain and kidney are the most frequently affected organs. The heart is one of the most frequently affected organs in SLE. Skin is one of the most commonly affected organs in SLE. Other affected organs in SLE-AAC included hematologic system (11, 84.6%), followed by mucocutaneous (seven, 53.8%), musculoskeletal (seven, 53.8%) and neuropsychiatric (two, 15.4%) systems.",
+            "In systemic lupus erythematosus (SLE), brain and kidney are the most frequently affected organs. The heart is one of the most frequently affected organs in SLE. Skin is one of the most commonly affected organs in SLE",
+            "In systemic lupus erythematosus (SLE), brain and kidney are the most frequently affected organs. The heart is one of the most frequently affected organs in SLE. Any part of the heart can be affected, including the pericardium, myocardium, coronary arteries, valves, and the conduction system",
+            "In systemic lupus erythematosus (SLE), brain and kidney are the most frequently affected organs."
+        ],
+        "exact_answer": [
+            [
+                "kidney"
+            ],
+            [
+                "brain"
+            ],
+            [
+                "heart"
+            ],
+            [
+                "skin"
+            ]
+        ]
+    },
+    {
+        "id": "5be44d8b133db5eb78000015",
+        "question": "What are the 3 main bacteria found in human milk?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Human milk is rich in diverse bacteria, particularly Staphylococcus, Streptococcus and Pseudomonas genera."
+        ],
+        "exact_answer": [
+            [
+                "Staphylococcus"
+            ],
+            [
+                "Streptococcus"
+            ],
+            [
+                "Pseudomonas"
+            ]
+        ]
+    },
+    {
+        "id": "5be2a070133db5eb78000013",
+        "question": "In which tissues is the lincRNA Xist expressed?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Relative expression of X-linked genes was examined in liver, kidney and brain tissue by real-time PCR in adult XX(Y)* and XY* males and XX females. X-chromosome inactive specific transcript (Xist) was expressed only in female adipose tissue. X-chromosome inactive specific transcript (Xist) was expressed only in female adipose tissue. It was also expressed in duodenum and testis."
+        ],
+        "exact_answer": [
+            [
+                "duodenum"
+            ],
+            [
+                "kidney"
+            ],
+            [
+                "brain"
+            ],
+            [
+                "liver"
+            ],
+            [
+                "adipose tissue"
+            ],
+            [
+                "testis"
+            ]
+        ]
+    },
+    {
+        "id": "5c0e82b2133db5eb7800002d",
+        "question": "What forms part of the senescence associated secretory phenotype, or SASP?",
+        "type": "Gene",
+        "ideal_answer": [
+            "The diverse arrays of proteins secreted by senescent cells have been described to influence aging and to have both pro-tumorigenic and anti-tumorigenic influences on the surrounding microenvironment. Further characterization of these proteins, known as the senescence-associated secretory phenotype (SASP), and their regulators is required to understand and further manipulate such activities. The senescence-associated secretory phenotype (SASP) is characterized by IL1B, CXCL8, CCL2, TNF, CCL27 and other pro-inflammatory factors including a novel SASP component CLEC11A.",
+            "Numerous activities of senescent cells depend on the aptitude of these cells to secrete myriads of bioactive molecules, a behavior termed the senescence-associated secretory phenotype (SASP) The SASP supports cell-autonomous functions like the senescence-associated growth arrest, and mediates paracrine interactions between senescent cells and their surrounding microenvironment. Cultures enriched with not-diploid cells acquired a senescence-associated secretory phenotype (SASP) characterized by IL1B, CXCL8, CCL2, TNF, CCL27 and other pro-inflammatory factors including a novel SASP component CLEC11A."
+        ],
+        "exact_answer": [
+            [
+                "IL1B"
+            ],
+            [
+                "CXCL8"
+            ],
+            [
+                "CCL2"
+            ],
+            [
+                "TNF"
+            ],
+            [
+                "CCL27"
+            ]
+        ]
+    },
+    {
+        "id": "5c5315727e3cb0e231000014",
+        "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Tyro3, Axl, and Mer are integral membrane proteins that constitute TAM family of receptor tyrosine kinases (RTKs).",
+            "TAM-family RTKs AXL and Mer (MerTK)."
+        ],
+        "exact_answer": [
+            [
+                "Tyro3"
+            ],
+            [
+                "Axl"
+            ],
+            [
+                "Mer"
+            ]
+        ]
+    },
+    {
+        "id": "5c596ad686df2b9174000015",
+        "question": "Which integrin genes are activated by the immune system in inflammatory bowel disease?",
+        "type": "Gene",
+        "ideal_answer": [
+            "ITGA4, ITGB8, ITGAL and ICAM1. In all four cases, the expression-increasing allele also increases disease risk."
+        ],
+        "exact_answer": [
+            [
+                "ITGA4"
+            ],
+            [
+                "ITGB8"
+            ],
+            [
+                "ITGAL"
+            ],
+            [
+                "ICAM1"
+            ]
+        ]
+    },
+    {
+        "id": "5c62a276e842deac6700000a",
+        "question": "De novo mutations in which novel genes are involved in systemic lupus erythematosus?",
+        "type": "Gene",
+        "ideal_answer": [
+            "DNMT3A, PRKCD, and C1QTNF4."
+        ],
+        "exact_answer": [
+            [
+                "DNMT3A"
+            ],
+            [
+                "PRKCD"
+            ],
+            [
+                "C1QTNF4"
+            ]
+        ]
+    },
+    {
+        "id": "5c9d18f1ecadf2e73f000033",
+        "question": "List targets of classical analgesics.",
+        "type": "Gene",
+        "ideal_answer": [
+            "Patient phenotypes in pharmacological pain treatment varies between individuals, which could be partly assigned to their genotypes regarding the targets of classical analgesics (OPRM1, PTGS2)"
+        ],
+        "exact_answer": [
+            [
+                "OPRM1"
+            ],
+            [
+                "PTGS2"
+            ]
+        ]
+    },
+    {
+        "id": "5c9f79c3ecadf2e73f00003d",
+        "question": "What are the 3 types of immunoglobulin heavy chain containing antibodies found in human breast milk?",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "IgA, IgG, AND  IgM can be found in human milk."
+        ],
+        "exact_answer": [
+            [
+                "IgM"
+            ],
+            [
+                "IgA"
+            ],
+            [
+                "IgG"
+            ]
+        ]
+    },
+    {
+        "id": "5e52900d6d0a277941000041",
+        "question": "PH motifs in which genes endow breast cancer growth?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Although emerging roles of protease-activated receptor1&2 (PAR1&2) in cancer are recognized, their underlying signalling events are poorly understood. Signal-binding motifs in PAR1&2 are critical for breast cancer growth. This occurs via the association of the pleckstrin homology (PH) domain with Akt/PKB as a key signalling event of PARs. Other PH-domain signal-proteins such as Etk/Bmx and Vav3 also associate with PAR1 and PAR2 through their PH domains. PAR1 and PAR2 bind with priority to Etk/Bmx. A point mutation in PAR2, H349A, but not in R352A, abrogates PH-protein association and is sufficient to markedly reduce PAR2-instigated breast tumour growth in vivo and placental extravillous trophoblast (EVT) invasion in vitro. Similarly, the PAR1 mutant hPar1-7A, which is unable to bind the PH domain, reduces mammary tumours and EVT invasion, endowing these motifs with physiological significance and underscoring the importance of these previously unknown PAR1 and PAR2 PH-domain-binding motifs in both pathological and physiological invasion processes."
+        ],
+        "exact_answer": [
+            [
+                "PAR1"
+            ],
+            [
+                "PAR2"
+            ]
+        ]
+    },
+    {
+        "id": "5e80e449835f4e477700002c",
+        "question": "Which tissues express the ACE2 protein?",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "Abundant ACE2 immunostaining was found in lung, kidney, heart, and islets of pancreas, but not in hepatocytes"
+        ],
+        "exact_answer": [
+            [
+                "lung"
+            ],
+            [
+                "kidney"
+            ],
+            [
+                "heart"
+            ],
+            [
+                "pancreas"
+            ]
+        ]
+    },
+    {
+        "id": "5e493bc06d0a277941000003",
+        "question": "List types of cancer where Long intergenic nonprotein coding RNA p53-induced transcript (LINC-PINT) is involved",
+        "type": "Gene",
+        "ideal_answer": [
+            "Long intergenic nonprotein coding RNA p53-induced transcript (LINC-PINT) is involved in the development of pancreatic cancer, glioblastoma and breast cancer.",
+            "Long intergenic nonprotein coding RNA p53-induced transcript (LINC-PINT) has been implicated in various types of cancer such as glioblastoma, breast cancer and pancreatic cancer.",
+            "Long intergenic nonprotein coding RNA p53-induced transcript (LINC-PINT) is involved in several types of cancer including pancreatic cancer, glioblastoma and breast cancer."
+        ],
+        "exact_answer": [
+            [
+                "Glioblastoma"
+            ],
+            [
+                "Breast cancer"
+            ],
+            [
+                "Pancreatic cancer"
+            ]
+        ]
+    },
+    {
+        "id": "5e2f43bafbd6abf43b000029",
+        "question": "Please list 2 human diseases caused by a coronavirus.",
+        "type": "Gene",
+        "ideal_answer": [
+            "Middle East respiratory syndrome (MERS) and SARS are diseases caused by a coronavirus.",
+            "MERS and SARS are 2 human diseases caused by coronaviruses"
+        ],
+        "exact_answer": [
+            [
+                "MERS"
+            ],
+            [
+                "SARS"
+            ]
+        ]
+    },
+    {
+        "id": "5e48100bd14c9f295d000007",
+        "question": "List the most common cancers after a radiation exposure?",
+        "type": "Disease",
+        "ideal_answer": [
+            "well-known increase in leukaemia, increases in solid cancer such as cancers of the lung, breast, stomach and thyroid have also been demonstrated."
+        ],
+        "exact_answer": [
+            [
+                "leukaemia"
+            ],
+            [
+                "lung cancer"
+            ],
+            [
+                "breast cancer"
+            ],
+            [
+                "stomach cancer"
+            ],
+            [
+                "thyroid cancer"
+            ]
+        ]
+    },
+    {
+        "id": "5e4f0a4f6d0a277941000031",
+        "question": "List the 5 different human immunoglobulin heavy chains.",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "The 5 human immunoglobulin heavy chains are Alpha, Delta Epsilon, Gamma and Mu",
+            "using heavy chain specific gamma, alpha, mu, delta and epsilon"
+        ],
+        "exact_answer": [
+            [
+                "alpha"
+            ],
+            [
+                "delta"
+            ],
+            [
+                "epsilon"
+            ],
+            [
+                "gamma"
+            ],
+            [
+                "mu"
+            ]
+        ]
+    },
+    {
+        "id": "601c18eb1cb411341a000010",
+        "question": "Variants in which genes cause nonsyndromic retinal degeneration?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Variants in DYNC2H1, IFT81, USH2A and ABHD12 can cause nonsyndromic retinal degeneration."
+        ],
+        "exact_answer": [
+            [
+                "DYNC2H1"
+            ],
+            [
+                "IFT81"
+            ],
+            [
+                "USH2A"
+            ],
+            [
+                "ABHD12"
+            ]
+        ]
+    },
+    {
+        "id": "601d31df1cb411341a00002e",
+        "question": "Which TREX mRNA export complex subunits have been implicated in neurodevelopmental disorders?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Multiple TREX mRNA export complex subunits, e.g. THOC1, THOC2, THOC5, THOC6, THOC7, have been implicated in neurodevelopmental disorders (NDDs), neurodegeneration and cancer.",
+            "THOC1, THOC2 and THOC5 have been implicated in neurodegeneration and cancer. THOC6, THO7 and THO8 have been shown to be implicated in NDD's.",
+            "THOC1, THOC2 and THOC5 have been implicated in neurodegeneration and cancer. THOC6, THO7 and THO8 have also been implicated.",
+            "THOC1, THOC2 and THOC5 have been implicated in neurodegeneration and cancer. THOC6, THO7 and THO8 have been shown to be implicated in NDDs.",
+            "THOC1, THOC2 and THOC5 have been implicated in neurodegeneration and cancer. THOC6, THO7 and THO8 have been shown to be implicated in NDDs and cancer, respectively.",
+            "THOC1, THOC2 and THOC5 have been implicated in neurodegeneration and cancer. THOC6, THO7 and THO8 have been shown to be implicated in cancer."
+        ],
+        "exact_answer": [
+            [
+                "THOC1"
+            ],
+            [
+                "THOC2"
+            ],
+            [
+                "THOC5"
+            ],
+            [
+                "THOC6"
+            ],
+            [
+                "THOC7"
+            ]
+        ]
+    },
+    {
+        "id": "5e9206f92d3121100d000008",
+        "question": "List human antibody isotypes.",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "IgA\nIgE\nIgG\nIgM\nIgD"
+        ],
+        "exact_answer": [
+            [
+                "IgA"
+            ],
+            [
+                "IgE"
+            ],
+            [
+                "IgG"
+            ],
+            [
+                "IgM"
+            ],
+            [
+                "IgD"
+            ]
+        ]
+    },
+    {
+        "id": "5e92021a2d3121100d000005",
+        "question": "List the essential aminoacids.",
+        "type": "MolecularFunction",
+        "ideal_answer": [
+            "Leucine\r\nIsoleucine\r\nValine \r\nTryptophan\r\nCysteine\r\nMethionine\r\nLysine\r\nPhenylalanine"
+        ],
+        "exact_answer": [
+            [
+                "Leucine"
+            ],
+            [
+                "Isoleucine"
+            ],
+            [
+                "Valine"
+            ],
+            [
+                "Tryptophan"
+            ],
+            [
+                "Cysteine"
+            ],
+            [
+                "Methionine"
+            ],
+            [
+                "Lysine"
+            ],
+            [
+                "Phenylalanine"
+            ]
+        ]
+    },
+    {
+        "id": "5e5e4fdb1af46fc130000009",
+        "question": "List the blood group antigens, associated with blood type",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "ABO antigens are highly abundant in many human cell types, including platelets, vascular endotheliums, and red blood cells.",
+            "The blood group antigens, associated with blood type, are: ab, von willebrand factor, o, a, de ritis, rhesus, b, factor viii, rresus d, platelets and abo.",
+            "ABO antigens are highly abundant in many human cell types, including platelets, vascular endothelium, and red blood cells.",
+            "The blood group antigens, associated with blood type, are: ab, von willebrand factor, o, a, de ritis, rhesus, b, factor vii, platelets."
+        ],
+        "exact_answer": [
+            [
+                "A"
+            ],
+            [
+                "B"
+            ],
+            [
+                "O"
+            ],
+            [
+                "Rh",
+                "h",
+                "RHd",
+                "D"
+            ]
+        ]
+    },
+    {
+        "id": "5e9202c52d3121100d000006",
+        "question": "List the core SNARE complex proteins.",
+        "type": "Gene",
+        "ideal_answer": [
+            "VAMP2\nSyntaxin\nSNAP25"
+        ],
+        "exact_answer": [
+            [
+                "VAMP2"
+            ],
+            [
+                "Syntaxin"
+            ],
+            [
+                "SNAP25"
+            ]
+        ]
+    },
+    {
+        "id": "5e9208da2d3121100d00000a",
+        "question": "List the major families of Histones.",
+        "type": "Gene",
+        "ideal_answer": [
+            "Five histone families (H1, H2A, H2B, H3, and H4)."
+        ],
+        "exact_answer": [
+            [
+                "H1"
+            ],
+            [
+                "H2A"
+            ],
+            [
+                "H2B"
+            ],
+            [
+                "H3"
+            ],
+            [
+                "H4"
+            ]
+        ]
+    },
+    {
+        "id": "6025a1e91cb411341a0000b4",
+        "question": "List 3 conventional synthetic DMARDs.",
+        "type": "Compound",
+        "ideal_answer": [
+            "Three conventional synthetic (cs) DMARDs include methotrexate (MTX), leflunomide, and sulfasalazine."
+        ],
+        "exact_answer": [
+            [
+                "methotrexate"
+            ],
+            [
+                "leflunomide"
+            ],
+            [
+                "sulfasalazine"
+            ]
+        ]
+    },
+    {
+        "id": "602823e61cb411341a0000f9",
+        "question": "Which drugs are included in the IROX regimen for colorectal cancer?",
+        "type": "Compound",
+        "ideal_answer": [
+            "IROX regimen for colorectal cancer includes irinotecan and oxaliplatin."
+        ],
+        "exact_answer": [
+            [
+                "irinotecan"
+            ],
+            [
+                "oxaliplatin"
+            ]
+        ]
+    },
+    {
+        "id": "6057a1ed94d57fd87900002f",
+        "question": "List example genes that SWIM tool has identified and which are down-regulated in glioblastoma",
+        "type": "Gene",
+        "ideal_answer": [
+            "SWIM is a software able to unveil a small pool of genes - called switch genes - critically associated with drastic changes in cell phenotype. Applying SWIM to the expression profiling of glioblastoma stem-like cells and conventional glioma cell lines identifies switch genes related to stem-like phenotype. SWIM identifies 171 switch genes that are all down-regulated in glioblastoma stem-like cells. This list encompasses genes like CAV1, COL5A1, COL6A3, FLNB, HMMR, ITGA3, ITGA5, MET, SDC1, THBS1, and VEGFC, involved in \"ECM-receptor interaction\" and \"focal adhesion\" pathways.",
+            "This list encompasses genes like CAV1, COL5A1, COL6A3, FLNB, HMMR, ITGA3, ITGA5, MET, SDC1, THBS1, and VEGFC, involved in \"ECM-receptor interaction\" and \"focal adhesion\" pathways.",
+            "SWIM tool has identified and which genes are down-regulated in glioblastoma. These include the genes: itga3, hmmr, sox2, cav1, itga5, thbs1, sdc1, col6a3, col5a1 and sall2.",
+            "SWIM tool has identified and which genes are down-regulated in glioblastoma and which are important for tumorigenesis: met, vegfc, flnb, itga3, hmmr, sox2, cav1, itGA5, thbs1, sdc1, col6a3, col5a1 and sall2.",
+            "SWIM identifies 171 switch genes that are all down-regulated in glioblastoma stem-like cells. This list encompasses genes like CAV1, COL5A1, COL6A3, FLNB, HMMR, ITGA3, ITGA5, MET, SDC1, THBS1, and VEGFC, involved in \"ECM-receptor interaction\" and \"focal adhesion\" pathways"
+        ],
+        "exact_answer": [
+            [
+                "CAV1"
+            ],
+            [
+                "COL5A1"
+            ],
+            [
+                "COL6A3"
+            ],
+            [
+                "FLNB"
+            ],
+            [
+                "HMMR"
+            ],
+            [
+                "ITGA3"
+            ],
+            [
+                "ITGA5"
+            ],
+            [
+                "MET"
+            ],
+            [
+                "SDC1"
+            ],
+            [
+                "THBS1"
+            ],
+            [
+                "VEGFC"
+            ]
+        ]
+    },
+    {
+        "id": "603221741cb411341a000136",
+        "question": "What tissues have been studied by circadian proteomics?",
+        "type": "SideEffect",
+        "ideal_answer": [
+            "Retina\nLiver"
+        ],
+        "exact_answer": [
+            [
+                "Retina"
+            ],
+            [
+                "Liver"
+            ]
+        ]
+    },
+    {
+        "id": "5fda3dcaa43ad31278000006",
+        "question": "Which cancer types are associated with mutations in the TWIST1 gene?",
+        "type": "Disease",
+        "ideal_answer": [
+            "Loss-of-function mutations of TWIST1, a catalytic component of polycomb repressive complex 1, are observed in ~\\n10% of all human cancers, including gastric, non-small cell lung, breast ductal carcinoma, nonsmall cell lung cancer, prostate cancer, ovarian cancer, breast tumor, papillary thyroid cancer, and gastric cancer.",
+            "Cancer is caused by uncontrolled cell division. Mutations in TWIST1 are associated with breast cancer, prostate cancer, lung cancer, and skin cancer.",
+            "Cancer is caused by uncontrolled cell division. Mutations in TWIST1 are associated with breast cancer, prostate cancer, lung cancer, and lung cancer.",
+            "TWIST1, an epithelial-mesenchymal transition (EMT) transcription factor, is critical for oncogene-driven non-small cell lung cancer (NSCLC) tumorigenesis.  STAT3 mediates TGF-\u03b21-induced TWIST1 expression and prostate cancer invasion.   Phosphorylation of serine 68 of Twist1 by MAPKs stabilizes Twist1 protein and promotes breast cancer cell invasiveness. The Transcription Factor ETV5 Mediates BRAFV600E-Induced Proliferation and TWIST1 Expression in Papillary Thyroid Cancer Cells.",
+            "Cancer is caused by uncontrolled cell division. Mutations in TWIST1 are associated with breast cancer, prostate cancer, and lung cancer.",
+            "Cancer is caused by uncontrolled cell division. Mutations in TWIST1 are associated with breast cancer, prostate cancer, lung cancer, and prostate cancer.",
+            "Loss-of-function mutations of TWIST1, a catalytic component of polycomb repressive complex 1 (PRC1), are observed in ~\\n10% of patients with gastric, non-small cell lung, breast ductal carcinomas, nonsmall cell lung cancer, prostate cancer, ovarian cancer, breast tumor, papillary thyroid cancer, and gastric cancer.",
+            "Loss-of-function mutations of TWIST1, a catalytic component of polycomb repressive complex 1 (PRC1), are observed in ~\\n10% of patients with gastric, non-small cell lung, breast ductal carcinomas, nonsmall cell lung cancer, prostate cancer, female breast cancer, ovarian cancer, breast tumor, papillary thyroid cancer, and gastric cancer.",
+            "Loss-of-function mutations of TWIST1, a catalytic component of polycomb repressive complex 1 (PRC1), are observed in ~\\n10% of patients with gastric, non-small cell lung, breast ductal carcinomas, nonsmall cell lung cancer, prostate cancer, ovarian cancer, breast tumor, papillary thyroid cancer, cervical cancer, adenoid cystic carcinoma, salivary gland neoplasms."
+        ],
+        "exact_answer": [
+            [
+                "prostate cancer"
+            ],
+            [
+                "breast cancer"
+            ],
+            [
+                "lung cancer"
+            ],
+            [
+                "thyroid cancer"
+            ]
+        ]
+    },
+    {
+        "id": "603281cb1cb411341a000140",
+        "question": "Which are the parts of a flaggelum?",
+        "type": "Gene",
+        "ideal_answer": [
+            "The bacterial flagellum is a supramolecular motility machine consisting of the basal body, the hook, and the filament.\nThe axial structure of the flagellum consists of the rod, hook, junction, filament, and cap."
+        ],
+        "exact_answer": [
+            [
+                "basal body"
+            ],
+            [
+                "hook"
+            ],
+            [
+                "filament"
+            ],
+            [
+                "cap"
+            ]
+        ]
+    },
+    {
+        "id": "603125341cb411341a00012b",
+        "question": "List critical regions for 7p22.1 microduplication syndrome",
+        "type": "Gene",
+        "ideal_answer": [
+            "7p22.1 microduplication syndrome is mainly characterized by developmental and speech delay, craniofacial dysmorphism and skeletal abnormalities. The minimal critical region includes two OMIM genes: ACTB and RNF216.",
+            "7p22.1 microduplication syndrome is mainly characterized by developmental and speech delay, craniofacial dysmorphisms and skeletal abnormalities. The minimal critical region includes two OMIM genes: ACTB and RNF216."
+        ],
+        "exact_answer": [
+            [
+                "ACTB"
+            ],
+            [
+                "RNF216"
+            ]
+        ]
+    },
+    {
+        "id": "602c17d41cb411341a000118",
+        "question": "Which proteins does RG-7992 target?",
+        "type": "Gene",
+        "ideal_answer": [
+            "BFKB8488A is a bispecific antibody against FGFR1 and KLB."
+        ],
+        "exact_answer": [
+            [
+                "FGFR1"
+            ],
+            [
+                "KLB"
+            ]
+        ]
+    },
+    {
+        "id": "606b295294d57fd87900005b",
+        "question": "Which are the lactate isomers?",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "Lactate contains a chiral carbon and thus has two optical isomers-d-lactate and l-lactate."
+        ],
+        "exact_answer": [
+            [
+                "d-lactate"
+            ],
+            [
+                "l-lactate"
+            ]
+        ]
+    },
+    {
+        "id": "606a23c694d57fd87900004d",
+        "question": "Which two genes are predominantly considered by warfarin initial dosing algorithms?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Polymorphisms in CYP2C9 and VKORC1 are taken into consideration by warfarin initial dosing algorithms."
+        ],
+        "exact_answer": [
+            [
+                "CYP2C9"
+            ],
+            [
+                "VKORC1"
+            ]
+        ]
+    },
+    {
+        "id": "60292e661cb411341a000112",
+        "question": "What 3 organs are the sphincter of Oddi associated with?",
+        "type": "Disease",
+        "ideal_answer": [
+            "Sphincter of Oddi is associated with the pancreatic duct, duodenum and gallbladder.",
+            "The sphincter of Oddi is associated with the pancreatic duct, the duodenal crypts and gallbladder.",
+            "Sphincter of Oddi (SO) is a dynamic structure located strategically at the confluence of the bile duct, the pancreatic duct and the duodenum.",
+            "The sphincter of oddsi is associated with the pancreatic duct, the duodenal crypts and the gallbladder.",
+            "The sphincter ofoddi is associated with the pancreatic duct, the duodenal crypts and gallbladder.",
+            "The sphincter of Oddi is a dynamic structure located strategically at the confluence of the bile duct, the pancreatic duct and the duodenum."
+        ],
+        "exact_answer": [
+            [
+                "pancreas"
+            ],
+            [
+                "bile duct"
+            ],
+            [
+                "duodenum"
+            ]
+        ]
+    },
+    {
+        "id": "621b806c3a8413c653000040",
+        "question": "List the main salt-inducible kinases.",
+        "type": "Gene",
+        "ideal_answer": [
+            "SIK1\nSIK2\nSIK3\nHDAC4\nHDAC5"
+        ],
+        "exact_answer": [
+            [
+                "SIK1"
+            ],
+            [
+                "SIK2"
+            ],
+            [
+                "SIK3"
+            ],
+            [
+                "HDAC4"
+            ],
+            [
+                "HDAC5"
+            ]
+        ]
+    },
+    {
+        "id": "624de153e764a53204000007",
+        "question": "Which proteins are markers of myositis?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Blood tests showed significantly increased CK and aldolase values in patients with myositis (p < 0.001 and p < 0.0001)."
+        ],
+        "exact_answer": [
+            [
+                "CK"
+            ],
+            [
+                "Aldolase"
+            ]
+        ]
+    },
+    {
+        "id": "61fbc613c9dfcb9c09000010",
+        "question": "What drugs are included in the Avandamet pill?",
+        "type": "Compound",
+        "ideal_answer": [
+            "The combination of metformin and rosiglitazone in a single pill (Avandamet), was approved by the FDA in October 2002 for the treatment of diabetes."
+        ],
+        "exact_answer": [
+            [
+                "metformin"
+            ],
+            [
+                "rosiglitazone"
+            ]
+        ]
+    },
+    {
+        "id": "625ba1fae764a5320400002d",
+        "question": "List biomarkers for sepsis.",
+        "type": "Gene",
+        "ideal_answer": [
+            "HCK, PRKCD, SIRPA, DOK3, ITGAM, LTB4R, MAPK14, MALT1, NLRC3, LCK\nC-Reactive Protein (CRP), Procalcitonin (PCT) and Interleukin 6 (IL-6)\nsTM"
+        ],
+        "exact_answer": [
+            [
+                "CRP"
+            ],
+            [
+                "PCT"
+            ],
+            [
+                "IL-6"
+            ],
+            [
+                "HCK"
+            ],
+            [
+                "PRKCD"
+            ],
+            [
+                "SIRPA"
+            ],
+            [
+                "DOK3"
+            ],
+            [
+                "ITGAM"
+            ],
+            [
+                "LTB4R"
+            ],
+            [
+                "MAPK14"
+            ],
+            [
+                "MALT1"
+            ],
+            [
+                "NLRC3"
+            ],
+            [
+                "LCK"
+            ],
+            [
+                "sTM"
+            ]
+        ]
+    },
+    {
+        "id": "62784f9756bf9aee6f00000a",
+        "question": "Which vitamin deficiencies may present with neurologic signs or symptoms?",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "Many vitamin deficiencies have been described as a cause of neurologic signs and symptoms. For instance, vitamin B12 deficiency can cause several types of neurological manifestations, such as subacute combined degeneration of the spinal cord, ataxia, peripheral polyneuropathy, optic nerve neuropathy, and cognitive disorders. In addition, vitamin B1 (Thiamine) and B6 (Pyridoxine) deficiency can both cause peripheral neuropathy. Specifically, vitamin B1 deficiency can also cause confusion, ophthalmoplegia, nystagmus, and ataxia in the context of beriberi and Wernicke's encephalopathy. Finally, vitamin A deficiency has been described to cause retinal change-related visual defects and subsequent vision loss."
+        ],
+        "exact_answer": [
+            [
+                "Vitamin B12",
+                "Cobalamin"
+            ],
+            [
+                "Vitamin A"
+            ],
+            [
+                "Vitamin B1",
+                "Thiamine",
+                "Thiamin"
+            ],
+            [
+                "Vitamin B6",
+                "Pyridoxine"
+            ],
+            [
+                "Vitamin E"
+            ],
+            [
+                "Vitamin D"
+            ]
+        ]
+    },
+    {
+        "id": "620c01ae3a8413c653000005",
+        "question": "Which CYP genes' expression is decreased at the in vivo level following pomegranate juice consumption?",
+        "type": "Gene",
+        "ideal_answer": [
+            "It was found that pomegranate juice consumption decreased total hepatic CYP content as well as the expression of CYP1A2 and CYP3A."
+        ],
+        "exact_answer": [
+            [
+                "CYP1A2"
+            ],
+            [
+                "CYP3A"
+            ]
+        ]
+    },
+    {
+        "id": "62128a913a8413c653000017",
+        "question": "Class-defining mutations in which genes drive FLT3-ITD-mutant AML?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Advances in cancer genomics have revealed genomic classes of acute myeloid leukemia (AML) characterized by class-defining mutations, such as chimeric fusion genes or in genes such as NPM1, MLL, and CEBPA. These class-defining mutations frequently synergize with internal tandem duplications in FLT3 (FLT3-ITDs) to drive leukemogenesis.",
+            "Advances in cancer genomics have revealed genomic classes of acute myeloid leukemia (AML) characterized by class-defining mutations, such as chimeric fusion genes or in genes such as NPM1, MLL, and CEBPA.",
+            "NPM1, MLL, and CEBPA",
+            "NPM1, RUNX1, CEBPA, MLL"
+        ],
+        "exact_answer": [
+            [
+                "NPM1"
+            ],
+            [
+                "MLL"
+            ],
+            [
+                "CEBPA"
+            ]
+        ]
+    },
+    {
+        "id": "6220ce4c3a8413c653000068",
+        "question": "What are the functions of DNA and RNA G-quadruplexes?",
+        "type": "BiologicalProcess",
+        "ideal_answer": [
+            "G-Quadruplex, a unique secondary structure in nucleic acids found throughout human genome, elicited widespread interest in the field of therapeutic research. Being present in key regulatory regions of oncogenes, RNAs and telomere, G-Quadruplex structure regulates transcription, translation, splicing, etc"
+        ],
+        "exact_answer": [
+            [
+                "transcription"
+            ],
+            [
+                "translation"
+            ],
+            [
+                "splicing"
+            ],
+            [
+                "RNA regulation"
+            ]
+        ]
+    },
+    {
+        "id": "61f7d017882a024a1000002f",
+        "question": "Which drugs were included in the polypill that was tested in TIPS-3 trial?",
+        "type": "Compound",
+        "ideal_answer": [
+            "Polypill tested in the TIPS-3 trial was comprised of atenolol, ramipril, hydrochlorothiazide, and a statin."
+        ],
+        "exact_answer": [
+            [
+                "atenolol"
+            ],
+            [
+                "ramipril"
+            ],
+            [
+                "hydrochlorothiazide"
+            ],
+            [
+                "statin"
+            ]
+        ]
+    },
+    {
+        "id": "61f7d535882a024a10000034",
+        "question": "What are the targets of avapritinib?",
+        "type": "Gene",
+        "ideal_answer": [
+            "Avapritinib is a novel inhibitor of KIT/PDGFRA. It is approved in the U.S. for the treatment of adults with PDGFRA exon 18-mutant unresectable or metastatic gastrointestinal stromal tumors."
+        ],
+        "exact_answer": [
+            [
+                "KIT"
+            ],
+            [
+                "PDGFRA"
+            ]
+        ]
+    }
+]
